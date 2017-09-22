@@ -11,17 +11,28 @@
     font-weight: bold;
     cursor: pointer;
     text-decoration: none;
-    color: rgb(80, 80, 90) !important;
+    color: rgb(80, 80, 90);
 }
 
 .notice a {
-    color: rgb(80, 80, 90) !important;
+    color: rgb(80, 80, 90);
+}
+
+.notice a:hover {
+    color: #FF5A5F
 }
 
 .do-it:hover {
-    color: #3ac2dd;
+    color: #FF5A5F ;
 }
 
 .notice:hover {
-    color: #3ac2dd;
+    color: #FF5A5F;
+}
+.cool-icons {
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: none;
 }
