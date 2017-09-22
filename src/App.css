@@ -41,6 +41,11 @@
     color: inherit;
 }
 
+.cool-icons:hover{
+  color: #FF5A5F;
+
+}
+
 /*.cool-icons a {
   text-shadow: none;
   color: none;

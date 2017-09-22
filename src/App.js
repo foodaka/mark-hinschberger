@@ -9,10 +9,9 @@ class App extends Component {
       <div className="App">
         <div>
           <p>
-            Hi, I'm Mark Hinschberger and I like to write code and build cool
-            products <i className="em em-sunglasses" />.
+            Hi, I'm Mark Hinschberger and I create products and build companies <i className="em em-sunglasses" />.
           </p>
-          <p>I work with Javascript and use React/Redux to build UI.</p>
+          <p>I work with Javascript and use React/Redux to hack UI.</p>
           <p>
             I just launched a new product to market called&nbsp;
             <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
@@ -43,11 +42,11 @@ class App extends Component {
             <a className="cool-icons" href='https://www.linkedin.com/in/mark-hinschberger-3370962b/'>
               <i className="fa fa-linkedin-square fa-lg" aria-hidden="true" />
             </a>
-            <a className="cool-icons fa-lg" href="https://www.github.com/foodaka">
-              <i className="fa fa-github" aria-hidden="true" />
+            <a className="cool-icons" href="https://www.github.com/foodaka">
+              <i className="fa fa-github fa-lg" aria-hidden="true" />
             </a>
             <a className="cool-icons" href="mailto:markhinschberger@gmail.com">
-              <i className="fa fa-envelope" aria-hidden="true" />
+              <i className="fa fa-envelope fa-lg" aria-hidden="true" />
             </a>
           </p>
         </div>
