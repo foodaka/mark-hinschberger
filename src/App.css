@@ -1,0 +1,27 @@
+.App {
+  max-width: 22em;
+  margin: 90px;
+  transition: all 250ms ease;
+  font-family: 'Roboto';
+  color: rgb(80, 80, 90);
+  line-height: 1.6em;
+}
+
+.notice {
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(80, 80, 90) !important;
+}
+
+.notice a {
+    color: rgb(80, 80, 90) !important;
+}
+
+.do-it:hover {
+    color: #3ac2dd;
+}
+
+.notice:hover {
+    color: #3ac2dd;
+}
