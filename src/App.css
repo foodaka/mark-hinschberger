@@ -22,6 +22,10 @@
     color: #FF5A5F
 }
 
+.do-it {
+  color: #FF5A5F;
+}
+
 .do-it:hover {
     color: #FF5A5F ;
 }
@@ -34,5 +38,10 @@
     margin-right: 5px;
     cursor: pointer;
     text-decoration: none;
-    color: none;
+    color: inherit;
 }
+
+/*.cool-icons a {
+  text-shadow: none;
+  color: none;
+}*/
