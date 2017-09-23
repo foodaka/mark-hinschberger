@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Mark_Hinschberger_PM from "./Mark_Hinschberger_PM.pdf";
 
