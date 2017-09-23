@@ -17,7 +17,7 @@ class App extends Component {
               WordUp
             </a>. You should&nbsp;
             <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
-              definitly
+              definitely
             </a>{" "}
             check it out.
           </p>
