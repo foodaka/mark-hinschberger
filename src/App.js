@@ -10,7 +10,7 @@ class App extends Component {
           <p>
             Hi, I'm Mark Hinschberger and I create products and build companies <i className="em em-sunglasses" />.
           </p>
-          <p>I work with Javascript and use React/Redux/Node to build applications.</p>
+          <p>I work with Javascript and use React/Redux/Node to develop applications.</p>
           <p>
             I just launched a new product to market called&nbsp;
             <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
