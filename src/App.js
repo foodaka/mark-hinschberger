@@ -19,7 +19,9 @@ class App extends Component {
             <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
               definitely
             </a>{" "}
-            check it out.
+            check it out. I've also created a website called &nbsp;
+            <a className="notice do-it" href={"http://www.hyptocrypto.com"}> HyptoCrypto </a>
+              where I track cryptocurrencies.
           </p>
           <p>
             <a className="notice" href="mailto:markhinschberger@gmail.com">
