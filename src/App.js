@@ -13,15 +13,16 @@ class App extends Component {
           <p>I work with Javascript and use React/Redux/Node to develop applications.</p>
           <p>
             I just launched a new product to market called&nbsp;
-            <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
+            <a className="notice do-it" target="_blank" href={"https://www.wordup.com.tw/about"}>
               WordUp
-            </a>. You should&nbsp;
-            <a className="notice do-it" href={"http://www.wordup.com.tw/about"}>
-              definitely
-            </a>{" "}
-            check it out. I've also created a website called &nbsp;
-            <a className="notice do-it" href={"http://www.hyptocrypto.com"}> HyptoCrypto </a>
-              where I track cryptocurrencies.
+            </a>. I'm the creator of&nbsp;
+            <a className="notice do-it" target="_blank" href={"http://www.hiredcrypto.com"}>
+              HiredCrypto
+            </a>
+              &nbsp;a job board for the cyptocurrency industry.
+            I've also created a tool called
+            <a className="notice do-it" target="_blank" href={"http://www.hyptocrypto.com"}> HyptoCrypto </a>
+              where I track the price of bitcoin and ethereum.
           </p>
           <p>
             <a className="notice" href="mailto:markhinschberger@gmail.com">
