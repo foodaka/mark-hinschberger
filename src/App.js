@@ -15,7 +15,10 @@ class App extends Component {
             I just launched a new product to market called&nbsp;
             <a className="notice do-it" target="_blank" href={"https://www.wordup.com.tw/about"}>
               WordUp
-            </a>. I'm the creator of&nbsp;
+            </a>. It's a flash card web application to help students study for exams.
+          </p>
+          <p>
+             I'm the creator of&nbsp;
             <a className="notice do-it" target="_blank" href={"http://www.hiredcrypto.com"}>
               HiredCrypto
             </a>
