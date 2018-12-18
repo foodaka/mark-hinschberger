@@ -18,16 +18,6 @@ class App extends Component {
             </a>. It's a flash card web application to help students study for exams.
           </p>
           <p>
-             I'm the creator of&nbsp;
-            <a className="notice do-it" target="_blank" href={"http://www.hiredcrypto.com"}>
-              HiredCrypto
-            </a>
-              &nbsp;a job board for the cyptocurrency industry.
-            I've also created a tool called
-            <a className="notice do-it" target="_blank" href={"http://www.hyptocrypto.com"}> HyptoCrypto </a>
-              where I track the price of bitcoin and ethereum.
-          </p>
-          <p>
             <a className="notice" href="mailto:markhinschberger@gmail.com">
               <span className="do-it">You Should Email me&nbsp;</span>
             </a>
